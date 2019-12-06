@@ -1,6 +1,6 @@
 # location_app
 
-A new Flutter application.
+Warning: there is a currently a bug in iOS simulator in which you have to manually select a Location several in order for the Simulator to actually send data. Please keep that in mind when testing in iOS simulator.
 
 ## Getting Started
 
